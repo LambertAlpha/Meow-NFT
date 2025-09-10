@@ -16,7 +16,7 @@ remappings = [
 # Polygon 网络配置
 [rpc_endpoints]
 polygon = "https://polygon-rpc.com"
-mumbai = "https://rpc-mumbai.maticvigil.com"
+amoy = "https://rpc-amoy.polygon.technology"
 
 # Gas 报告
 gas_reports = ["*"]
