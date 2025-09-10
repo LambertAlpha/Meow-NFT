@@ -8,7 +8,7 @@ contract DeployMeowNFT is Script {
     function run() public {
         // ********** IMPORTANT **********
         // PASTE THE METADATA FOLDER CID FROM PINATA HERE
-        string memory metadataBaseURI = "ipfs://QmYourMetadataFolderCIDGoesHere/";
+        string memory metadataBaseURI = "ipfs://bafybeig4qh422yle7hiuq6beokguwuas2mid2yqh2cqnkputc4pbklhm3y/";
         
         uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY");
         
